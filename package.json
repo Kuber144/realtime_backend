@@ -2,7 +2,7 @@
   "main": "server.js",
 "scripts": {
 "start": "npm run start-server",
-    "start-server": "node server.js"
+    "start-server": "node server.js &"
 },
   "dependencies": {
     "@react-pdf-viewer/core": "^3.12.0",
