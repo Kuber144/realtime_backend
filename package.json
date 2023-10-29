@@ -1,7 +1,8 @@
 {
   "main": "server.js",
 "scripts": {
-  "start": "node server.js"
+    "start": "node server.js",
+  "build": "react-scripts build"
 },
   "dependencies": {
     "@react-pdf-viewer/core": "^3.12.0",
